@@ -1,15 +1,21 @@
 pretranslate:
   segments:
     ignore_frontmatter_keys:
-    - "district"
-    - "house first"
-    - "family"
-    - "members"
-    - "house second"
-    - "family"
-    - "members"
+    - "menu"
+    - "pizza1"
+    - "name"
+    - "pizza2"
+    - "name"
+    - "pizza3"
+    - "name"
+    - "pasta1"
+    - "name"
+    - "pasta2"
+    - "name"
+    - "pasta3"
+    - "name"
   paths:
   - source: .
     include:
-    - "04_10_1.md"
+    - "04_11.md"
     
