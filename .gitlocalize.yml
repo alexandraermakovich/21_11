@@ -8,4 +8,9 @@ pretranslate:
     - "house second"
     - "family"
     - "members"
+   
+  paths:
+  - source: .
+    include:
+    - "04_10_1.md"
     
