@@ -1,0 +1,11 @@
+pretranslate:
+  segments:
+    ignore_frontmatter_keys:
+    - "district"
+    - "house first"
+    - "family"
+    - "members"
+    - "house second"
+    - "family"
+    - "members"
+    
