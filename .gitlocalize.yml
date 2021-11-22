@@ -1,21 +1,17 @@
 pretranslate:
   segments:
     ignore_frontmatter_keys:
-    - "menu"
-    - "pizza1"
-    - "name"
-    - "pizza2"
-    - "name"
-    - "pizza3"
-    - "name"
-    - "pasta1"
-    - "name"
-    - "pasta2"
-    - "name"
-    - "pasta3"
-    - "name"
+    - "my"
+    - "girls1"
+    - "girls2"
+    - "girls3"
+    - "Man"
+    - "Man1"
+    - "Man2"
+    - "Man3"
+    - "girls"
   paths:
   - source: .
     include:
-    - "04_11.md"
+    - "07_1_09.md"
     
