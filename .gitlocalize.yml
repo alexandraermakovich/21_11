@@ -6,9 +6,7 @@ pretranslate:
     - "family"
     - "members"
     - "house second"
-    - "family"
-    - "members"
-   
+       
   paths:
   - source: .
     include:
